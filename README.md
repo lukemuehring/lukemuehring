@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1> 👋 Hey, I'm Luke </h1>
+
+Welcome to my GitHub! If you want to learn more about me, <a href="https://lukemuehring.github.io">check out my website!</a>
 
 <!--
 **lukemuehring/lukemuehring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

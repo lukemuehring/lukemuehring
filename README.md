@@ -1,5 +1,4 @@
-<h1> 👋 Hey, I'm Luke </h1>
-<a href="https://lukemuehring.github.io">check out my website!</a>
+<h1><a href="https://lukemuehring.github.io">my website</a></h1>
 
 <!--
 **lukemuehring/lukemuehring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
